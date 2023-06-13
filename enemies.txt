@@ -1,0 +1,14 @@
+Target Dummies
+TGD
+Guards
+GRD
+Soldiers
+SDR
+Assasins
+ASA
+Scouts
+SCT
+Bandits
+BND
+something
+SMT

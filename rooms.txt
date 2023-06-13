@@ -1,0 +1,20 @@
+Castle
+Military Base
+Town Entrance
+Forest
+Tavern
+Market
+Cathedral
+Farm
+Port
+Fortress
+Prison
+Garden
+Guildhall
+Bridge
+Monument
+Library
+Graveyard
+Main Street
+Plains
+Mountain

@@ -1,0 +1,351 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+  You are Pripos, an ex-soldier and one 
+  of the last people left in Valyria -- 
+  a once booming trade town. The Scala
+  Assassins had left this town and many
+  others in ruins, and it is your job
+  to defeat their forces and restore The
+  Lost Kingdom.
+
+  You awake from the ruins in the place
+  you once called home and try to find
+  your bearings. You see the old military
+  outpost you used to train at on the
+  outskirts of the town, and you head over
+  to it to refresh your knowledge of
+  battle.
+
+  Now that you have refreshed your battle
+  skills, you decide to start heading up
+  the mountain not too far from town where
+  the merchants normally head out to. The
+  whole town is surrounded by mountains,
+  and there is only one that doesn't have
+  steep faces, being north of the town.
+
+  While moving up the mountain however,
+  you are spotted by some Scala scouts --
+  distinguishable by their maroon and
+  black uniform. Knowing that you are not
+  very powerful at this time and have had
+  practically no practice you attempt to
+  run away, however they catch up to you.
+  
+  After you get away from the scouts, you
+  get close to the summit of the mountain.
+  There were tales of a dragon living in
+  the big cave at the top, but you think
+  that they are just fairy tales. Just a
+  few moments later, and the dragon jumps
+  from the cave and tries to capture you.
+
+  You can do one of three things here:
+  A: Just try and run past the dragon
+  in hopes the dragon will not get you.
+  B: Use your shield to block the
+  dragon's attack.
+  C: Turn around and run back to find
+  another, safer path.
+
+  // PATH A
+  You try and run past the dragon hoping
+  that they are slow, but to no avail you
+  are captured by the dragon and are
+  knocked out from them picking you up
+  and knocking your head. The last thing
+  you saw was the darkness of the cave
+  emerging as the dragon took you away.
+
+  You wake up possibly hours later in an
+  almost pitch black cave, with the only
+  light being from the entrance to the
+  cave blocked by a massive red dragon.
+  You look around and there is a large
+  pile of treasures. There is also a man
+  in the cave, and you go talk to him.
+
+  He tells you how long he has been here
+  and how he is too old to be able to
+  escape himself. He says that he can
+  teach you his battle knowledge, however
+  you do see that he has an old Scala
+  badge which could be trouble, plus
+  he doesn't actually look that old.
+
+  You currently have two options:
+  A: Learn from the suspicious "old" man
+  hoping that he sticks to his word, and
+  doesn't steal anything from you.
+  B: Decline his offer and continue
+  trying to find a way out of the cave
+  past the dragon.
+
+  The old man sticks to his word and
+  teaches you his knowledge of battle
+  training from being in the Scala
+  Assassins army. Your attack stat is
+  boosted +50% which will greatly
+  help your efforts in taking back and
+  restoring The Lost Kingdom.
+
+  You notice that the dragon is asleep
+  and is blocking almost all of the
+  exit to the cave, except one small
+  gap over on the right. You look
+  around the cave to see if there is any
+  items or anything that could be of use
+  to you, but there is nothing of help.
+
+  You find yourself open to two options:
+  A: Try and sneak past the dragon which
+  could be possibly very risky, however
+  luck appears to be on your side today.
+  B: Attempt to purposefully wake the
+  dragon to tell them that if they help
+  take over, you will reward them well.
+
+  // ENDING 5
+  You try to sneak past the dragon to
+  get out of the cave, but the dragon
+  wakes up and sees you. They yell at 
+  you and then before you can do anything
+  they pick you up and dangle you by one
+  leg above their mouth and drop you in.
+  GAME OVER
+
+  // ENDING 4
+  You go over to the dragon and lightly
+  tap their scaly red skin. They yell at
+  you but you quickly interupt them,
+  explaining your goal and their reward.
+  They say that they have a undying hate
+  for the Scala Assassins after they
+  forced them into the cave, and that...
+
+  ...they will gladly help you in taking
+  back The Lost Kingdom. The dragon
+  prepares themself and then allow you
+  onto their back. You fly off to a nearby
+  Scala outpost. As you offer to get down
+  and fight, the dragon burns down the
+  outpost.
+
+  They fly you over to a nearby town and
+  let you down to fight some of the people
+  there as they attack the rest of the
+  town so that it can be reclaimed and
+  restored to its former glory. You rush
+  over to a group of Scala soldiers and
+  engage a battle with them.
+
+  After defeating the soldiers you run
+  over to the guards protecting the mayor
+  and tell the dragon to help with saving
+  some of the prisoners kept locked up in
+  the town's prison. The guards are very
+  powerful, but you will be able to take
+  them on easily.
+
+  You finish reclaiming the town, and the
+  remaining Scala soldiers run away in
+  fear. You meet the old mayor and he
+  thanks you and gives you his thanks as
+  you get back on the dragon to go reclaim
+  the other towns restore The Lost Kingdom
+  and to recruit other armies.
+
+  Over the next few weeks you and the
+  dragon slowly take towns from the Scala
+  Assassins, weakening them over and over
+  again, town by town, outpost by outpost.
+  Eventually, you go to their castle and
+  through the power of all of the armies
+  that you have gotten to join you start...
+
+  ...attacking the castle. In less than a
+  day the castle is in your control, and
+  the Scala Assassins are no more, all
+  thanks to the dragon. You give them
+  their reward of whatever they want, and
+  you are crowned by the previous leader
+  to be the Queen of The Lost Kingdom.
+
+  // PATH B
+  You use your shield to deflect the
+  dragon's attack, and you get away missing
+  a shield but not your life. You slowly
+  make your way down the rest of the
+  mountain and see a what appears to be
+  destroyed town off in the distance, so
+  you set it as your target.
+
+  Just as you get to the town you see some
+  guards on the outside of the entrance.
+  You look through the guards and see lots
+  of people being put into prison cells
+  and dragged around in handcuffs, some
+  even have bags over their heads. You 
+  decide to jump out at the guards.
+
+  After quietly dealing with the guards
+  you sneak around the town to deal with
+  some of the bandits pulling people
+  around and locking them up. You decide
+  that the best way to do it would be to
+  make as much noise as possible to get
+  the help of the prisoners.
+
+  While you were taking care of the
+  bandits the rest of the people in the
+  town started attacking the other Scala
+  Assassins' forces and took back the
+  town all from your bravery inspiring
+  them. Somebody comes up to you and tells
+  you that they can give you a new shield.
+
+  They present you with two options:
+  A: If you go outside the town and take
+  out some of the roaming assassins they
+  can get you a new shield.
+  B: Decline the offer and continue on
+  your quest without the risk of dangerous
+  assassins who are known to be powerful.
+
+  After accepting the deal, you head north
+  of the town where they were last seen.
+  They said there are about two or more
+  groups wandering around looking for
+  trouble, and to be careful as they could
+  be very strong. You head into the forest,
+  and are immediately spotted.
+
+  You successfully defeat the assassins
+  and are just about to sit down and have
+  a quick break, but then some more of the
+  assassins jump out from the treetops,
+  this time looking much more dangerous
+  especially as it is starting to become
+  dark as the sun is setting.
+
+  You look around to see if there are any
+  more, loot their bodies and then return
+  to the town for your reward and to sleep
+  in the inn. You get back and sleep for
+  the night in the inn, all for free as
+  a method of thanks from the building's
+  owner, also giving you dinner.
+
+  In the morning, the person who originally
+  gave you the quest came over to you
+  and personally handed you a brand new
+  shield, protecting you even more than
+  the shield you originally had to begin
+  with. After, you head onto the next town
+  to continue taking back The Lost Kingdom.
+
+  // PATH C
+  After just straight up turning around
+  and running right back to avoid dying
+  to the dragon, you look around for
+  different options on the mountain. You
+  see many different paths, but most are
+  either too dangerous or are just dead
+  ends that lead to a sheer cliff.
+
+  There are the two viable routes:
+  A: There is a very precarious and small
+  path on the side of a steep cliff face
+  most likely for mountain goats.
+  B: Another path further down that goes
+  through a very foggy swamp that you
+  could get stuck in easily.
+
+  You get through the dangerous path and
+  make it through to the other side of
+  the mountain, now in some very flat
+  grassy plains. There is a town in the
+  distance, and you decide to start
+  heading toward it to see what it has, 
+  being careful of the people there.
+
+  // PATH B AND C MERGE
+  As you get onto the next town you spot
+  a large castle in the middle, with a
+  seemingly normal town who don't mind
+  you being there at all instead of
+  instantly attacking you. You go over to
+  the large castle door and see two very
+  strong looking guards blocking the way.
+
+  You ask the guards what is in the castle
+  and they just tell you that it is
+  private Scala Assassins' property and
+  that you must leave, not even attempting
+  to answer your question. You think
+  about what to do and you can tell the
+  guards are not going to let you through.
+
+  You think of two options:
+  A: Attempt to fight these very strong
+  looking guards who will not move
+  however much you ask them.
+  B: Turn around and try and find
+  something else you could do in order
+  to get past them.
+
+  I'm honestly suprised how you even
+  defeated those guards, you weren't
+  supposed to be able to. Unless you
+  altered the code, or are just absurdly
+  good at this game.
+
+  There's nothing else here by the way.
+
+  You walk away from the guards knowing
+  that they will be way too strong for
+  you and that you will need more
+  manpower to take them down. You head
+  back into the suspiciously friendly
+  town and look around for anything of
+  use to your quest.
+
+  You pick up a newspaper and have a
+  brief look at the front page, only
+  for the massive text on the front
+  to say "Kingdom in Ruins, Scala
+  Assassins Take Everything!". Now in
+  possession of this information, you
+  rush to find anything or anyone of use.
+
+  You see a group of people talking
+  and holding a flag with a massive
+  cross through the Scala Assassins'
+  logo, so you try and talk to them.
+  You soon learn that they are actually
+  rebels from Scala and they immediately
+  are on board with what you are doing.
+
+  You and your new group of rebels storm
+  the castle, trampling the guards and
+  breaking down the door to get in.
+  Everybody goes through the castle
+  floor by floor taking people out as
+  they go by your command, and as you
+  get to the top you find some people.
+
+  After you take out the soldiers
+  protecting the throne, you grab the
+  Scala King and throw him over to
+  everyone else to deal with him. You
+  crown yourself the new King now with
+  control over practically the whole
+  kingdom. You realise that with this...
+
+  ...you can do whatever you want.
+  Snapping yourself out of it, you order
+  all of the Scala Assassins across the
+  whole kingdom to stop what they are
+  doing and put all of their efforts
+  into reviving The Lost Kingdom, fixing
+  everything that the old King had done.
