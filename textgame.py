@@ -18,11 +18,9 @@ from time import sleep # same as line above
 
 # open required game text files
 gameTextFile = open("gameText.txt", encoding="utf8") # adding encoding because VSC told me to
-battleTextFile = open("battleText.txt", encoding="utf8")
 roomsFile = open("rooms.txt", encoding = "utf8")
 enemiesFile = open("enemies.txt", encoding = "utf8")
 gameText = gameTextFile.readlines() # readlines automatically puts linebreaks
-battleText = battleTextFile.readlines()
 rooms = roomsFile.read().splitlines() # read + splitlines does not put linebreaks
 enemies = enemiesFile.read().splitlines()
 
